@@ -1,12 +1,12 @@
 # Desarrollo de una Aplicación de Gestión de Productos y Categorías en ReactJS con PrimeReact
 
-Vladimir Escobar 
-
-Mateo Amaguaya
-
 Melani Gonzaga
 
 Nicole Cóndor
+
+Vladimir Escobar 
+
+Mateo Amaguaya
 
 NRC: 17713
 
